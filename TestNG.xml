@@ -8,8 +8,8 @@
 <test name="BankingApp Test">
     <parameter name="browser" value="chrome" />
     <classes>
-        <!--<class name="com.automationframework.testcases.TC_LoginTest_001"></class>-->
-        <class name="com.automationframework.testcases.TC_LoginDDT_002"></class>
+        <class name="com.automationframework.testcases.TC_LoginTest_001"></class>
+        <!--<class name="com.automationframework.testcases.TC_LoginDDT_002"></class>-->
     </classes>
 </test>
 
