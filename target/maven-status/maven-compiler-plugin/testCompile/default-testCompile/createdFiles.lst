@@ -1,0 +1,8 @@
+com\automationframework\testcases\BaseClass.class
+com\automationframework\testcases\TC_LoginTest_001.class
+com\automationframework\utilities\Reporting.class
+com\automationframework\testcases\leetcode.class
+com\automationframework\utilities\XLUtils.class
+com\automationframework\utilities\ReadConfig.class
+com\automationframework\pageobjects\LoginPage.class
+com\automationframework\testcases\TC_LoginDDT_002.class
